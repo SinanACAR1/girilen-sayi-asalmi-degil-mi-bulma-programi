@@ -1,0 +1,8 @@
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\SAYI ASALMI DEĞİLİ BULMA\SAYI ASALMI DEĞİLİ BULMA\bin\Debug\SAYI ASALMI DEĞİLİ BULMA.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\SAYI ASALMI DEĞİLİ BULMA\SAYI ASALMI DEĞİLİ BULMA\bin\Debug\SAYI ASALMI DEĞİLİ BULMA.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\SAYI ASALMI DEĞİLİ BULMA\SAYI ASALMI DEĞİLİ BULMA\obj\x86\Debug\SAYI ASALMI DEĞİLİ BULMA.csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\SAYI ASALMI DEĞİLİ BULMA\SAYI ASALMI DEĞİLİ BULMA\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\SAYI ASALMI DEĞİLİ BULMA\SAYI ASALMI DEĞİLİ BULMA\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\SAYI ASALMI DEĞİLİ BULMA\SAYI ASALMI DEĞİLİ BULMA\obj\x86\Debug\SAYI ASALMI DEĞİLİ BULMA.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\SAYI ASALMI DEĞİLİ BULMA\SAYI ASALMI DEĞİLİ BULMA\obj\x86\Debug\SAYI ASALMI DEĞİLİ BULMA.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\SAYI ASALMI DEĞİLİ BULMA\SAYI ASALMI DEĞİLİ BULMA\obj\x86\Debug\SAYI ASALMI DEĞİLİ BULMA.pdb
